@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.calculator {
+  width: 300px;
+  height: 450px;
+}
+
+.calculator-line-h {
+  height: 75px;
+}
